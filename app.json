@@ -1,11 +1,11 @@
 {
-    "name": "xrayku",
-    "description": "xray websocket proxy on heroku",
-    "keywords": ["xray vmess vless trojan shadowsocks socks tor"],
+    "name": "candyx",
+    "description": "use for fun",
+    "keywords": ["candy website"],
     "env": {
         "AA": {
-            "description": "直接部署",
-            "value": "别乱改"
+            "description": "null",
+            "value": "keep null"
         },
         "AUUID": {
             "description": "ID",
