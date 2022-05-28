@@ -32,7 +32,5 @@
             "value": "https://raw.githubusercontent.com/xfangbao/candyx/main/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/mixool/xrayku",
-    "repository": "https://github.com/mixool/xrayku",
     "stack": "container"
 }
